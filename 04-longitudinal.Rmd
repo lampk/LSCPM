@@ -1,0 +1,18 @@
+# Longitudinal/Repeated data analysis {#longitudinal}
+
+Here is a review and examples of longitudinal data analysis
+
+Outline
+
+* Why longitudinal data analysis (benefit of longitudinal data analysis compared to traditional analysis)
+* Research questions related to longitudinal data analysis
+* How to explore longitudinal data
+* How to formulate longitudinal models
+* How to fit longitudinal models
+* How to interpret longitudinal models
+
+Some _significant_ applications are demonstrated in this chapter.
+
+## Example one
+
+## Example two

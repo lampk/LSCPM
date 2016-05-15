@@ -1,0 +1,10 @@
+# Univariate and Multivariable analysis {#multivariable}
+
+Here is a review and example of univariate and multivariable analysis.
+
+Outline:
+
+* How to Formulating regression models (choose functional forms for categorical and continuous covariates)
+* How to Assessing model assumptions
+* How to select variables
+
