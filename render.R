@@ -1,5 +1,6 @@
 #devtools::install_github("rstudio/bookdown")
 bookdown::render_book("bookdown::gitbook")
+bookdown::render_book("bookdown::pdf_book")
 
 ## git commands to sync gh-pages with folder _book
 ### create a local gh-pages branch containing the splitted output folder
