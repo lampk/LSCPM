@@ -11,5 +11,5 @@
 ["bayes.html", "Chapter 10 Bayesian analysis", " Chapter 10 Bayesian analysis "],
 ["technical.html", "Chapter 11 Technical appendix", " Chapter 11 Technical appendix "],
 ["references.html", "Chapter 12 References", " Chapter 12 References "],
-["index.html", "Chapter 13 Index", " Chapter 13 Index Xie, Yihui. 2015. Dynamic Documents with R and Knitr. 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC. http://yihui.name/knitr/. ———. 2016. Bookdown: Authoring Books with R Markdown. https://github.com/rstudio/bookdown. "]
+["indices.html", "Chapter 13 Indices", " Chapter 13 Indices Xie, Yihui. 2015. Dynamic Documents with R and Knitr. 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC. http://yihui.name/knitr/. ———. 2016. Bookdown: Authoring Books with R Markdown. https://github.com/rstudio/bookdown. "]
 ]
